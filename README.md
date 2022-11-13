@@ -1,2 +1,2 @@
-# NikolManolovaCalculator
-Calculator, Windows Forms Application, C#
+# Calculator
+Windows Forms Application, C#
